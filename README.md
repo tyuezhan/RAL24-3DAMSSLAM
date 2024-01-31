@@ -1,3 +1,3 @@
-# RAL24-A3DMSSLAM
-Code stack for RA-L 24 Active 3D Metric-Semantic SLAM
+# RAL24-3DAMSSLAM
+Code stack for RA-L 24 3D Active Metric-Semantic SLAM
 # Coming Soon...
